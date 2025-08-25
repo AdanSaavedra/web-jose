@@ -217,7 +217,7 @@ const HeroSection = () => {
         >
           <div className="relative h-2/6">
             <img
-              src="/src/assets/jose.JPG"
+              src="/jose.JPG"
               alt="Jose Pimentel"
               className="w-full h-2/6 max-w-lg mx-auto rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-500"
             />
